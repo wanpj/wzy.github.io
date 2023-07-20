@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "朱强"
+title                    : "MegaMind"
 description              : "计算机视觉"
 repository               : "xx/xx.github.io"
 google_scholar_stats_use_cdn : false
